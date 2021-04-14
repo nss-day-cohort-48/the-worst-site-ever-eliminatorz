@@ -61,3 +61,10 @@ body{
     justify-content: center;
     width: 400px;
 }
+
+.navbar1{
+display: flex;
+justify-content: space-around;
+position:fixed;
+font-family: 'Gloria Hallelujah', Arial, Helvetica, sans-serif;
+}
