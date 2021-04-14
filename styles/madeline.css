@@ -14,3 +14,13 @@ body {
 .navigation {
     background-color: yellow;
 }
+
+.intro-madeline {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: hotpink;
+}
+
+.salad-pic {
+    width: 700px;
+}
