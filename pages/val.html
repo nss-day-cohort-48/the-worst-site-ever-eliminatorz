@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="../styles/main.css">
+		<title>The Eliminators Web Dev Bio: Val Currie</title>
+	</head>
+	<body>
+		<nav class="navbar testBorder">
+			<div class="navbar__page">
+				<a class="navbar__page__link"
+				   href="/index.html">Home</a>
+			</div>
+			<div class="navbar__page">
+				<a class="navbar__page__link"
+				   href="/index.html#justice">Justice</a>	
+			</div>
+			<div class="navbar__page">
+				<a class="navbar__page__link"
+				   href="/index.html#madeline">Madeline</a>	
+			</div>
+			<div class="navbar__page">
+				<a class="navbar__page__link"
+				   href="/index.html#shawn">Shawn</a>	
+			</div>
+		</nav>
+
+		<article class="about testBorder">
+			<img class="about__image" alt="an illustration of a rock and roll girl with silver hair and a plum-colored electric guitar" src="https://cdnb.artstation.com/p/assets/images/images/004/033/023/large/ivette-pineiro-rocknrollgirl.jpg?1479678196"/>
+			<section class="about__text">
+				<p>Hi there! My name is <b>Val</b> and I love to make <b>music</b> but I never release it! I'm also obsessed with photography! I may not take pictures but I <b>know</b> more megapixels = more better, and I'm always looking to push the resolution.</p>	
+			</section>	
+			<section class="about__links"></section>	
+		</article>
+		<article class="learning testBorder">
+			<section class="learning__text"></section>
+			<aside class="learning__links"></aside>
+			<img class="learning__image"/>
+		</article>
+
+		<audio id="evil" controls autoplay src="https://vcvcvc-dev.us-east-1.linodeobjects.com/help_1.mp3"></audio>
+		<script>
+			var context
+document.addEventListener('click', musicPlay);
+function musicPlay() {
+	document.querySelector('#evil').play();
+}
+		</script>
+	</body>
+</html>

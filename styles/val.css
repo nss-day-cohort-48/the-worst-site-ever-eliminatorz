@@ -1,0 +1,24 @@
+.testBorder {
+	border: 1px dotted blue;
+}
+
+.navbar {
+	display: flex;
+	justify-content: space-around;
+	margin: 20px 0px;
+	padding: 20px;
+}
+
+#evil {
+	float: right;
+	opacity: 10%;
+}
+
+.about {
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.about__image {
+	max-height: 20rem;
+}
