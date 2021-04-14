@@ -1,0 +1,16 @@
+body {
+    background-color: #4afc4a;
+}
+
+.header-pic {
+    width: 700px;
+}
+
+.page-header {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navigation {
+    background-color: yellow;
+}
