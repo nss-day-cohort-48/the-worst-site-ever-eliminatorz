@@ -21,4 +21,15 @@
 
 .about__image {
 	max-height: 20rem;
+	flex: 3;
+}
+
+.about__text {
+	margin: 1rem;
+	flex: 1;
+}
+
+.about__facts {
+	margin: 2rem;
+	flex: 3;
 }
