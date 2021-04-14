@@ -1,0 +1,26 @@
+body {
+    background-color: #4afc4a;
+}
+
+.header-pic {
+    width: 700px;
+}
+
+.page-header {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navigation {
+    background-color: yellow;
+}
+
+.intro-madeline {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: hotpink;
+}
+
+.salad-pic {
+    width: 700px;
+}
