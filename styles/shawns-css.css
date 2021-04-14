@@ -1,4 +1,14 @@
+body {
+    background-image: url(https://wallup.net/wp-content/uploads/2017/11/17/271444-computer-simple_background-748x421.jpg);
+    font-family: 'Indie Flower', cursive;
+    color: yellow;
+}
+
 .gifs {
     display: flex;
     flex-flow: row wrap;
+}
+
+.bordered {
+    border: dotted beige;
 }
