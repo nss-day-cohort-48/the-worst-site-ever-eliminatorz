@@ -1,6 +1,27 @@
 @import "./val.css";
 @import "./shawns-css.css";
 
+
+.home-body {
+    background-image: url(https://media2.s-nbcnews.com/i/newscms/2020_12/3276826/200319-2x1-computer-monitors-ew-519p_1488da9dd3259ff2b1b455b2a3586217.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-nav {
+    background: linear-gradient(to bottom, #ccff33 0%, #00ccff 100%);
+    display: flex;
+    justify-content: space-around;
+}
+
+.intro {
+    background: linear-gradient(to bottom, #66ccff 0%, #ff99cc 100%);
+}
+
+.shawn-intro {
+    display: flex;
+}
+
 a:link {
     color:aquamarine;
 }
