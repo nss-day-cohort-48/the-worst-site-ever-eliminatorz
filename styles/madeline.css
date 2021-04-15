@@ -1,5 +1,6 @@
 .madeline-body {
     background-color: #4afc4a;
+    font-family: 'Kaushan Script', cursive;
 }
 
 .madeline-header-pic {
@@ -28,5 +29,25 @@
 .nike-ad {
     display: block;
     margin: 1rem auto;
-    width: 50%
+    width: 50%;
+}
+
+.madeline-portfolio {
+    background-color: yellow;
+}
+
+.bigfoot {
+    width: 50%;
+}
+
+.waitress {
+    width: 70%;
+}
+
+.chimpanzees {
+    width: 40%;
+}
+
+.mansion {
+    width: 60%;
 }
