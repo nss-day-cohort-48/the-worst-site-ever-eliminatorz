@@ -6,7 +6,7 @@
 	margin-bottom: 2rem;
 }
 
-.navbar {
+.vc-navbar {
 	display: flex;
 	justify-content: space-around;
 	margin: 20px 0px;
@@ -18,40 +18,40 @@
 	opacity: 10%;
 }
 
-.about {
+.vc-about {
 	display: flex;
 	flex-flow: row wrap;
 }
 
-.about__image {
+.vc-about__image {
 	max-height: 20rem;
 	flex: auto;
 }
 
-.about__text {
+.vc-about__text {
 	margin: 1rem;
 	flex: 2;
 }
 
-.about__facts {
+.vc-about__facts {
 	margin: 1.5rem;
 	flex: 6;
 }
 
-.learning {
+.vc-learning {
 	display: flex;
 	justify-content: space-around;
 }
 
-.learning__header {
+.vc-learning__header {
 	text-align: center;
 }
 
 
-.learning__links {
+.vc-learning__links {
 	margin-left: 3rem;
 }
 
-.learning__image {
+.vc-learning__image {
 	align-self: end;
 }
