@@ -27,14 +27,3 @@
     border: solid beige;
 }
 
-a:link {
-    color:aquamarine
-}
-
-a:visited {
-    color: brown;
-}
-
-a:hover {
-    font-size: 100px;
-}
