@@ -7,6 +7,28 @@
     background-size: cover;
 }
 
-.shawn-intro {
+.home-nav {
+    background: linear-gradient(to bottom, #ccff33 0%, #00ccff 100%);
+    display: flex;
+    justify-content: space-around;
+}
 
+.intro {
+    background: linear-gradient(to bottom, #66ccff 0%, #ff99cc 100%);
+}
+
+.shawn-intro {
+    display: flex;
+}
+
+a:link {
+    color:aquamarine;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    font-size: 100px;
 }
