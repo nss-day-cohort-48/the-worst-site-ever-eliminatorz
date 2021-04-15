@@ -1,5 +1,5 @@
 .testBorder {
-	border: 1px dotted blue;
+	/*border: 1px dotted blue;*/
 }
 
 .bottomSpace {
@@ -13,14 +13,27 @@
 	padding: 20px;
 }
 
+.vc-navbar__page {
+	font-family: 'Lexend Zetta', sans-serif;
+}
+
 #evil {
 	float: right;
 	opacity: 10%;
 }
 
+.vc-body {
+	background: linear-gradient(to bottom left, #cc9900 0%, #cccc00 100%);
+	font-family: 'Stick', sans-serif;
+}
+
 .vc-about {
 	display: flex;
 	flex-flow: row wrap;
+}
+
+.vc-about__facts__header {
+	font-family: 'Lexend Zetta', sans-serif;
 }
 
 .vc-about__image {
@@ -35,7 +48,7 @@
 
 .vc-about__facts {
 	margin: 1.5rem;
-	flex: 6;
+	flex: 4;
 }
 
 .vc-learning {
@@ -44,7 +57,13 @@
 }
 
 .vc-learning__header {
+	font-family: 'Lexend Zetta', sans-serif;
 	text-align: center;
+}
+
+.vc-learning__text {
+	margin-right: 1.5rem;
+	margin-left: 1.5rem;
 }
 
 
