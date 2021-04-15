@@ -39,6 +39,9 @@ body{
 
 }
 
+.justin__facts:hover {font-size: 50px;}
+.justin__facts:hover {background-color: rgb(255, 217, 0);}
+
 .about__me__info {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: right;
@@ -59,7 +62,7 @@ body{
 
 .ad__img {
     justify-content: center;
-    width: 400px;
+    width: 360px;
 }
 
 .navbar1{
@@ -67,4 +70,20 @@ display: flex;
 justify-content: space-around;
 position:fixed;
 font-family: 'Gloria Hallelujah', Arial, Helvetica, sans-serif;
+}
+
+.navbar1:hover {font-size: 50px;}
+
+.links__title:hover {
+    padding: 10px 10px 10px 10px;
+}
+
+.start__link{
+    color:inherit;
+    cursor: text;
+    text-decoration: none;
+}
+
+.start__highlight{
+    color: blue;
 }
