@@ -35,9 +35,8 @@ body{
 .JAabout__me {
     display: flex;
     flex-direction:column;
-
-
 }
+
 
 .JAjustin__facts:hover {font-size: 50px;}
 .JAjustin__facts:hover {background-color: rgb(255, 217, 0);}
@@ -72,6 +71,7 @@ position:fixed;
 font-family: 'Gloria Hallelujah', Arial, Helvetica, sans-serif;
 }
 
+
 .JAnavbar1:hover {font-size: 50px;}
 
 .JAlinks__title:hover {
@@ -79,11 +79,14 @@ font-family: 'Gloria Hallelujah', Arial, Helvetica, sans-serif;
 }
 
 .JAstart__link{
+
     color:inherit;
     cursor: text;
     text-decoration: none;
 }
 
+
 .JAstart__highlight{
+
     color: blue;
 }
