@@ -35,8 +35,6 @@ body{
 .about__me {
     display: flex;
     flex-direction:column;
-
-
 }
 
 .justin__facts:hover {font-size: 50px;}
