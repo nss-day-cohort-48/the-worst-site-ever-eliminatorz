@@ -16,6 +16,8 @@
 
 .intro {
     background: linear-gradient(to bottom, #66ccff 0%, #ff99cc 100%);
+	margin-right: 24rem;
+	margin-left: 24rem;
 }
 
 .shawn-intro {
